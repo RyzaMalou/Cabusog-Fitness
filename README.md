@@ -1,6 +1,6 @@
 # Cabusog Fitness
 
-Cabusog Fitness is a PHP and MySQL-based fitness web application.
+Cabusog Fitness is a PHP and MySQL-based fitness web application designed to help users manage their fitness goals, activities, and programs.
 
 ## Features
 
